@@ -6,10 +6,10 @@
 </h1>
 
 <p align="center">
-<img src="https://img.shields.io/github/repo-size/yashraj-n/audium?style=for-the-badge"/>
+<img src="https://img.shields.io/github/issues/yashraj-n/audium?style=for-the-badge"/>
 <img src="https://img.shields.io/github/languages/count/yashraj-n/audium?style=for-the-badge" />
 <img src="https://img.shields.io/github/license/yashraj-n/audium?style=for-the-badge" />
- <a target="_blank" href="https://twitter.com/NarkeYashraj/"><img height="20" src="https://img.shields.io/twitter/follow/NarkeYashraj?style=for-the-badge" /></a>
+<img height="20" src="https://img.shields.io/badge/Version-1.0.0-brightgreene?style=for-the-badge" />
 </p>
 <p align="center">
 🎤 Encode Audio with custom message 
