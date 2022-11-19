@@ -93,3 +93,7 @@ This repository is maintained actively, so if you face any issue please <a href=
 
 <h4>Liked the work ?</h4>
 Give the repository a star :-)
+
+## License 
+
+MIT License 
