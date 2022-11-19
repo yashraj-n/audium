@@ -86,6 +86,7 @@ options:
 By @yashraj-n
 ```
 You only need to provide filename and method in CLI
+<br>
 Options in `[]` are Optional and are not required
 
 ## Issue
